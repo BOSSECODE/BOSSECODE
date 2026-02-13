@@ -1,4 +1,5 @@
 ## Hi There, My name is Eduarda 👋
+Sou estudante da 3° serie da Escola Sesi/Senai de referência, curso o de Desenvolvimento de Sistemas integrado ao Ensino Médio. 
  
 <!--
 **BOSSECODE/BOSSECODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
