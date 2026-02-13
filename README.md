@@ -1,7 +1,6 @@
 ## Hi There, My name is Eduarda 👋
-Sou estudante da 3° serie da Escola Sesi/Senai de referência, curso o de Desenvolvimento de Sistemas integrado ao Ensino Médio. 
- 
-<!--
+I am a 3rd-year student at the Sesi/Senai reference school, studying Systems Development integrated with High School. I am very interested in technology and programming. I was born in 28/12/2008 and in this time, I writing this text with 17 years. My english is intermediary. I use this app for school, because the teachers of the technical needs this for avalible us. ✨
+
 **BOSSECODE/BOSSECODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
