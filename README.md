@@ -1,2 +1,2 @@
 ## Hi There, My name is Eduarda 👋
-I am a 3rd-year student at the Sesi/Senai reference school, studying Systems Development integrated with High School. I am very interested in technology and programming. I was born in 28/12/2008 and in this time, I writing this text with 17 years. My english is intermediary. I use this app for school, because the teachers of the technical needs this for avalible us. ✨
+I am a 3rd-year student at the Sesi/Senai reference school, studying Systems Development integrated with High School. I am very interested in technology and programming. I was born in 28/12/2008 and in this time, I writing this text with 17 years. My english is intermediary. I use GitHub for school, because the teachers of the technical needs this for avalible us. ✨
